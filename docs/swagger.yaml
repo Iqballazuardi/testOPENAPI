@@ -20,6 +20,7 @@ servers:
 - url: https://virtserver.swaggerhub.com/IQBALLAZUARDI12/MyAPI/1.0.0
   description: SwaggerHub API Auto Mocking
 - url: https://petstore.swagger.io/v2
+- url: "localhost:8000/{versi}"
 tags:
 - name: pet
   description: Everything about your Pets
